@@ -1,8 +1,5 @@
 
 /*
- * @file   menu_example.c
- * @brief  example for the caja menu extension provider
- *
  * Copyright (C) 2014 Alexander van der Meij <alexandervdm@gliese.me>
  * All Rights reserved.
  *
