@@ -1,0 +1,7 @@
+EXAMPLES="infocolumn_example menu_example propertypage_example"
+
+for e in $EXAMPLES
+do
+    cd $e; make; cd ..
+done
+
