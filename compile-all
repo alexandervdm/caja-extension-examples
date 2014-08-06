@@ -1,4 +1,4 @@
-EXAMPLES="infocolumn_example menu_example propertypage_example"
+EXAMPLES="infocolumn_example locationwidget_example menu_example propertypage_example"
 
 for e in $EXAMPLES
 do
